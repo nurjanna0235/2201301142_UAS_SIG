@@ -1,0 +1,17 @@
+
+.navbar-brand {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.navbar-nav {
+	margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+	margin-left: 10px;
+}
+
+.nav-link {
+	font-size: 1.2rem;
+}
